@@ -120,7 +120,6 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
     - Yanxin Yang, Chentao Jia, Dengke Yan, Ming Hu, Tianlin Li, Xiaofei Xie, Xian Wei, Mingsong Chen. *NeurIPS 2024.*
 - **BackTime: Backdoor Attacks on Multivariate Time Series Forecasting.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/ed3cd2520148b577039adfade82a5566-Abstract-Conference.html)]
     - Xiao Lin, Zhining Liu, Dongqi Fu, Ruizhong Qiu, Hanghang Tong. *NeurIPS 2024.*
-
 - **Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/03df5246cc78af497940338dd3eacbaa-Abstract-Conference.html)]
     - Mingli Zhu, Shaokui Wei, Hongyuan Zha, Baoyuan Wu. *NeurIPS 2023.*
 - **CBD: A Certified Backdoor Detector Based on Local Dominant Probability.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/0fbf046448d7eea18b982001320b9a10-Abstract-Conference.html)]
