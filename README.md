@@ -2,13 +2,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 😈/😇 A repository for documenting and exploring the backdoor attacks and defenses, featuring a curated collection of research groups, conferences, journals, competitions, papers, reports, and resource. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+> 😈/😇 A repository for documenting and exploring the <u>backdoor attacks and defenses</u>, featuring a curated collection of research groups, conferences, journals, competitions, papers, reports, and resource. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
 
 ## Contributing
 
-Please feel free to send me [pull requests](https://github.com/Allenpandas/Awesome-Backdoor-Attacks/pulls) to add links.
+Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Backdoor-Attacks/issues) and [pull requests](https://github.com/Allenpandas/Awesome-Backdoor-Attacks/pulls) to add links.
 
 ## Paper List
 
