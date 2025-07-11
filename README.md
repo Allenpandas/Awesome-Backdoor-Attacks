@@ -21,6 +21,67 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
 
 ### Refine by venue
 
+#### S&P
+
+- **Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-Trained Encoder and Downstream Dataset.** [[pdf](https://doi.org/10.1109/SP61157.2025.00162)]
+    - Yechao Zhang, Yuxuan Zhou, Tianyu Li, Minghui Li, Shengshan Hu, Wei Luo, Leo Yu Zhang. *S&P 2025.*
+- **Architectural Neural Backdoors from First Principles.** [[pdf](https://doi.org/10.1109/SP61157.2025.00060)]
+    - Harry Langford, Ilia Shumailov, Yiren Zhao, Robert D. Mullins, Nicolas Papernot. *S&P 2025.*
+- **BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target.** [[pdf](https://doi.org/10.1109/SP61157.2025.00103)]
+    - Guangyu Shen, Siyuan Cheng, Zhuo Zhang, Guanhong Tao, Kaiyuan Zhang, Hanxi Guo, Lu Yan, Xiaolong Jin, Shengwei An, Shiqing Ma, Xiangyu Zhang. *S&P 2025.*
+- **PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning.** [[pdf](https://doi.org/10.1109/SP61157.2025.00161)]
+    - Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, Xinlei He, Rongmao Chen, Xingshuo Han, Xinyi Huang. *S&P 2025.*
+- **Need for Speed: Taming Backdoor Attacks with Speed and Precision.** [[pdf](https://doi.org/10.1109/SP54263.2024.00216)]
+    - Zhuo Ma, Yilong Yang, Yang Liu, Tong Yang, Xinjing Liu, Teng Li, Zhan Qin. *S&P 2024.*
+- **FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge.** [[pdf](https://doi.org/10.1109/SP54263.2024.00148)]
+    - Jiahe Lan, Jie Wang, Baochen Yan, Zheng Yan, Elisa Bertino. *S&P 2024.*
+- **OdScan: Backdoor Scanning for Object Detection Models.** [[pdf](https://doi.org/10.1109/SP54263.2024.00119)]
+    - Siyuan Cheng, Guangyu Shen, Guanhong Tao, Kaiyuan Zhang, Zhuo Zhang, Shengwei An, Xiangzhe Xu, Yingqi Li, Shiqing Ma, Xiangyu Zhang. *S&P 2024.*
+- **MM-BD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic.** [[pdf](https://doi.org/10.1109/SP54263.2024.00015)]
+    - Hang Wang, Zhen Xiang, David J. Miller, George Kesidis. *S&P 2024.*
+- **BadVFL: Backdoor Attacks in Vertical Federated Learning.** [[pdf](https://doi.org/10.1109/SP54263.2024.00008)]
+    - Mohammad Naseri, Yufei Han, Emiliano De Cristofaro. *S&P 2024.*
+- **Distribution Preserving Backdoor Attack in Self-supervised Learning.** [[pdf](https://doi.org/10.1109/SP54263.2024.00029)]
+    - Guanhong Tao, Zhenting Wang, Shiwei Feng, Guangyu Shen, Shiqing Ma, Xiangyu Zhang. *S&P 2024.*
+- **Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics.** [[pdf](https://doi.org/10.1109/SP54263.2024.00174)]
+    - Xiaoxing Mo, Yechao Zhang, Leo Yu Zhang, Wei Luo, Nan Sun, Shengshan Hu, Shang Gao, Yang Xiang. *S&P 2024.*
+- **DeepVenom: Persistent DNN Backdoors Exploiting Transient Weight Perturbations in Memories.** [[pdf](https://doi.org/10.1109/SP54263.2024.00223)]
+    - Kunbei Cai, Md Hafizul Islam Chowdhuryy, Zhenkai Zhang, Fan Yao. *S&P 2024.*
+- **Baffle: Hiding Backdoors in Offline Reinforcement Learning Datasets.** [[pdf](https://doi.org/10.1109/SP54263.2024.00224)]
+    - Chen Gong, Zhou Yang, Yunpeng Bai, Junda He, Jieke Shi, Kecen Li, Arunesh Sinha, Bowen Xu, Xinwen Hou, David Lo, Tianhao Wang. *S&P 2024.*
+- **Exploring the Orthogonality and Linearity of Backdoor Attacks.** [[pdf](https://doi.org/10.1109/SP54263.2024.00225)]
+    - Kaiyuan Zhang, Siyuan Cheng, Guangyu Shen, Guanhong Tao, Shengwei An, Anuran Makur, Shiqing Ma, Xiangyu Zhang. *S&P 2024.*
+- **BELT: Old-School Backdoor Attacks can Evade the State-of-the-Art Defense with Backdoor Exclusivity Lifting.** [[pdf](https://doi.org/10.1109/SP54263.2024.00226)]
+    - Huming Qiu, Junjie Sun, Mi Zhang, Xudong Pan, Min Yang. *S&P 2024.*
+- **Backdooring Multimodal Learning.** [[pdf](https://doi.org/10.1109/SP54263.2024.00031)]
+    - Xingshuo Han, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, Han Qiu, Guowen Xu, Tianwei Zhang. *S&P 2024.*
+- **Disguising Attacks with Explanation-Aware Backdoors.** [[pdf](https://doi.org/10.1109/SP46215.2023.10179308)]
+    - Maximilian Noppel, Lukas Peter, Christian Wressnegger. *S&P 2023.*
+- **AI-Guardian: Defeating Adversarial Attacks using Backdoors.** [[pdf](https://doi.org/10.1109/SP46215.2023.10179473)]
+    - Hong Zhu, Shengzhi Zhang, Kai Chen. *S&P 2023.*
+- **Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers.** [[pdf](https://doi.org/10.1109/SP46215.2023.10179347)]
+    - Limin Yang, Zhi Chen, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang. *S&P 2023.*
+- **BayBFed: Bayesian Backdoor Defense for Federated Learning.** [[pdf](https://doi.org/10.1109/SP46215.2023.10179362)]
+    - Kavita Kumari, Phillip Rieger, Hossein Fereidooni, Murtuza Jadliwala, Ahmad-Reza Sadeghi. *S&P 2023.*
+- **Redeem Myself: Purifying Backdoors in Deep Learning Models using Self Attention Distillation.** [[pdf](https://doi.org/10.1109/SP46215.2023.10179375)]
+    - Xueluan Gong, Yanjiao Chen, Wang Yang, Qian Wang, Yuzhe Gu, Huayang Huang, Chao Shen. *S&P 2023.*
+- **RAB: Provable Robustness Against Backdoor Attacks.** [[pdf](https://doi.org/10.1109/SP46215.2023.10179451)]
+    - Maurice Weber, Xiaojun Xu, Bojan Karlas, Ce Zhang, Bo Li. *S&P 2023.*
+- **3DFed: Adaptive and Extensible Framework for Covert Backdoor Attack in Federated Learning.** [[pdf](https://doi.org/10.1109/SP46215.2023.10179401)]
+    - Haoyang Li, Qingqing Ye, Haibo Hu, Jin Li, Leixia Wang, Chengfang Fang, Jie Shi. *S&P 2023.*
+- **MagBackdoor: Beware of Your Loudspeaker as A Backdoor For Magnetic Injection Attacks.** [[pdf](https://doi.org/10.1109/SP46215.2023.10179364)]
+    - Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, Li Lu, Wenyao Xu, Kui Ren. *S&P 2023.*
+- **Selective Amnesia: On Efficient, High-Fidelity and Blind Suppression of Backdoor Effects in Trojaned Machine Learning Models.** [[pdf](https://doi.org/10.1109/SP46215.2023.10351028)]
+    - Rui Zhu, Di Tang, Siyuan Tang, Xiaofeng Wang, Haixu Tang. *S&P 2023.*
+- **Piccolo: Exposing Complex Backdoors in NLP Transformer Models.** [[pdf](https://doi.org/10.1109/SP46214.2022.9833579)]
+    - Yingqi Liu, Guangyu Shen, Guanhong Tao, Shengwei An, Shiqing Ma, Xiangyu Zhang. *S&P 2022.*
+- **BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning.** [[pdf](https://doi.org/10.1109/SP46214.2022.9833644)]
+    - Jinyuan Jia, Yupei Liu, Neil Zhenqiang Gong. *S&P 2022.*
+- **True2F: Backdoor-Resistant Authentication Tokens.** [[pdf](https://doi.org/10.1109/SP.2019.00048)]
+    - Emma Dauterman, Henry Corrigan-Gibbs, David Mazières, Dan Boneh, Dominic Rizzo. *S&P 2019.*
+- **Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks.** [[pdf](https://doi.org/10.1109/SP.2019.00031)]
+    - Bolun Wang, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, Ben Y. Zhao. *S&P 2019.*
+
 #### NeurIPS
 
 - **LT-Defense: Searching-free Backdoor Defense via Exploiting the Long-tailed Effect.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/064f6bcd7d3c72fb187bfca35ba2bfd4-Abstract-Conference.html)]
