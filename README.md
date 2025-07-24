@@ -28,7 +28,7 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
 - TDSC
 - [UsenixSecurity (21~24)](#UsenixSecurity) ✅ UsenixSecurity'25 🔍
 - [ICML (21~24)](#ICML) ✅ ICML'25 🔍
-- MM
+- [MM (21~24)](#ACMMM) ✅ ACM MM'25 🔍
 - ACL
 - IJCAI
 - ECCV
@@ -434,7 +434,6 @@ To be continued...
     - Shanglun Feng, Florian Tramèr. *ICML 2024.*
 - **Generalization Bound and New Algorithm for Clean-Label Backdoor Attack.** [[pdf](https://openreview.net/forum?id=ZdqiT0McON)]
     - Lijia Yu, Shuang Liu, Yibo Miao, Xiao-Shan Gao, Lijun Zhang. *ICML 2024.*
-
 - **Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning.** [[pdf](https://proceedings.mlr.press/v202/dai23a.html)]
     - Yanbo Dai, Songze Li. *ICML 2023.*
 - **Rethinking Backdoor Attacks.** [[pdf](https://proceedings.mlr.press/v202/khaddaj23a.html)]
@@ -449,3 +448,34 @@ To be continued...
     - Zhengming Zhang, Ashwinee Panda, Linyue Song, Yaoqing Yang, Michael W. Mahoney, Prateek Mittal, Kannan Ramchandran, Joseph Gonzalez. *ICML 2022.*
 - **Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.** [[pdf](http://proceedings.mlr.press/v139/schwarzschild21a.html)]
     - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P. Dickerson, Tom Goldstein. *ICML 2021.*
+
+---
+
+#### ACM MM
+
+- **EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second.** [[pdf](https://doi.org/10.1145/3664647.3680689)]
+    - Hao Wang, Shangwei Guo, Jialing He, Kangjie Chen, Shudong Zhang, Tianwei Zhang, Tao Xiang. *ACM MM 2024.*
+- **Backdoor Attacks on Bimodal Salient Object Detection with RGB-Thermal Data.** [[pdf](https://doi.org/10.1145/3664647.3681096)]
+    - Wen Yin, Bin Benjamin Zhu, Yulai Xie, Pan Zhou, Dan Feng. *ACM MM 2024.*
+- **Towards Robust Physical-world Backdoor Attacks on Lane Detection.** [[pdf](https://doi.org/10.1145/3664647.3680766)]
+    - Xinwei Zhang, Aishan Liu, Tianyuan Zhang, Siyuan Liang, Xianglong Liu. *ACM MM 2024.*
+- **Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning.** [[pdf](https://doi.org/10.1145/3581783.3612108)]
+    - Shengfang Zhai, Yinpeng Dong, Qingni Shen, Shi Pu, Yuejian Fang, Hang Su. *ACM MM 2023.*
+- **Physical Invisible Backdoor Based on Camera Imaging.** [[pdf](https://doi.org/10.1145/3581783.3612476)]
+    - Yusheng Guo, Nan Zhong, Zhenxing Qian, Xinpeng Zhang. *ACM MM 2023.*
+- **The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems.** [[pdf](https://doi.org/10.1145/3581783.3613843)]
+    - Zhicong Zheng, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu. *ACM MM 2023.*
+- **Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World.** [[pdf](https://doi.org/10.1145/3581783.3611910)]
+    - Hui Wei, Hanxun Yu, Kewei Zhang, Zhixiang Wang, Jianke Zhu, Zheng Wang. *ACM MM 2023.*
+- **PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification.** [[pdf](https://doi.org/10.1145/3581783.3612032)]
+    - Yizhen Yuan, Rui Kong, Shenghao Xie, Yuanchun Li, Yunxin Liu. *ACM MM 2023.*
+- **BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label.** [[pdf](https://doi.org/10.1145/3503161.3548272)]
+    - Shengshan Hu, Ziqi Zhou, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin. *ACM MM 2022.*
+- **Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems.** [[pdf](https://doi.org/10.1145/3503161.3548261)]
+    - Qiang Liu, Tongqing Zhou, Zhiping Cai, Yonghao Tang. *ACM MM 2022.*
+- **Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving.** [[pdf](https://doi.org/10.1145/3503161.3548171)]
+    - Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang. *ACM MM 2022.*
+- **Backdoor Attacks on Crowd Counting.** [[pdf](https://doi.org/10.1145/3503161.3548296)]
+    - Yuhua Sun, Tailai Zhang, Xingjun Ma, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun. *ACM MM 2022.*
+- **Anti-Distillation Backdoor Attacks: Backdoors Can Really Survive in Knowledge Distillation.** [[pdf](https://doi.org/10.1145/3474085.3475254)]
+  - Yunjie Ge, Qian Wang, Baolin Zheng, Xinlu Zhuang, Qi Li, Chao Shen, Cong Wang. *ACM MM 2021.*
