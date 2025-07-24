@@ -19,21 +19,24 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
 
 ## Paper List
 
-- AAAI (20~25) ✅
-- CCS
-- CVPR (20~25) ✅
-- ECCV
-- ICCV
-- ICML
-- ICLR
-- IJCAI
-- NeurIPS
-- NDSS
-- S&P
-- Usenix Security
+- [AAAI (20~25)](#./AAAI) ✅
+- [NeurIPS (18~24)](#./NeurIPS) ✅ NeruIPS'25 🔍
+- [ICLR (20~25)](#./ICLR) ✅
+- [CVPR (20~25)](#./CVPR) ✅
 - TIFS
+- [S&P (19~25)](#./S&P) ✅
 - TDSC
-- 
+- Usenix Security
+- ICML
+- MM
+- ACL
+
+- IJCAI
+
+- ECCV
+- NDSS
+- CCS
+- ICCV
 
 ### Refine by Year
 
@@ -111,6 +114,160 @@ To be continued...
     - Zhicong Yan, Gaolei Li, Yuan Tian, Jun Wu, Shenghong Li, Mingzhe Chen, H. Vincent Poor. *AAAI 2021.*
 - **Hidden Trigger Backdoor Attacks.** [[pdf](https://doi.org/10.1609/aaai.v34i07.6871)]
     - Aniruddha Saha, Akshayvarun Subramanya, Hamed Pirsiavash. *AAAI 2020.*
+
+---
+
+#### NeurIPS
+
+- **Injecting Undetectable Backdoors in Obfuscated Neural Networks and Language Models.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/263c763d00c6126d37ba670a1fa10847-Abstract-Conference.html)]
+    - Alkis Kalavasis, Amin Karbasi, Argyris Oikonomou, Katerina Sotiraki, Grigoris Velegkas, Manolis Zampetakis. *NeurIPS 2024.*
+- **Data Free Backdoor Attacks.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/2a7e91c6e4b68325d9884a7469804837-Abstract-Conference.html)]
+    - Bochuan Cao, Jinyuan Jia, Chuxuan Hu, Wenbo Guo, Zhen Xiang, Jinghui Chen, Bo Li, Dawn Song. *NeurIPS 2024.*
+- **WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/4ce18228ececb78bca04cbce069891b1-Abstract-Conference.html)]
+    - Jun Xia, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Yiyu Shi, Xian Wei, Mingsong Chen. *NeurIPS 2024.*
+- **Everyday Object Meets Vision-and-Language Navigation Agent via Backdoor.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/58e6c003c9fb3992265005ff6aef1913-Abstract-Conference.html)]
+    - Keji He, Kehan Chen, Jiawang Bai, Yan Huang, Qi Wu, Shu-Tao Xia, Liang Wang. *NeurIPS 2024.*
+- **Unelicitable Backdoors via Cryptographic Transformer Circuits.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/6087a60306544be7ba0d0cf34aa93c8f-Abstract-Conference.html)]
+    - Andis Draguns, Andrew Gritsevskiy, Sumeet Ramesh Motwani, Christian Schröder de Witt. *NeurIPS 2024.*
+- **Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/97d008f7873b8dd55cb6dd343fc4386f-Abstract-Conference.html)]
+    - Yuxin Wen, Leo Marchyok, Sanghyun Hong, Jonas Geiping, Tom Goldstein, Nicholas Carlini. *NeurIPS 2024.*
+- **Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/b6e9d6f4f3428cd5f3f9e9bbae2cab10-Abstract-Conference.html)]
+    - Wenkai Yang, Xiaohan Bi, Yankai Lin, Sishuo Chen, Jie Zhou, Xu Sun. *NeurIPS 2024.*
+- **SleeperNets: Universal Backdoor Poisoning Attacks Against Reinforcement Learning Agents.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/cb03b5108f1c3a38c990ef0b45bc8b31-Abstract-Conference.html)]
+    - Ethan Rathbun, Christopher Amato, Alina Oprea. *NeurIPS 2024.*
+- **BAN: Detecting Backdoors Activated by Adversarial Neuron Noise.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/cfaccbd9b5e62562779351ebcb140c94-Abstract-Conference.html)]
+    - Xiaoyun Xu, Zhuoran Liu, Stefanos Koffas, Shujian Yu, Stjepan Picek. *NeurIPS 2024.*
+- **BackTime: Backdoor Attacks on Multivariate Time Series Forecasting.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/ed3cd2520148b577039adfade82a5566-Abstract-Conference.html)]
+    - Xiao Lin, Zhining Liu, Dongqi Fu, Ruizhong Qiu, Hanghang Tong. *NeurIPS 2024.*
+- **CBD: A Certified Backdoor Detector Based on Local Dominant Probability.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/0fbf046448d7eea18b982001320b9a10-Abstract-Conference.html)]
+    - Zhen Xiang, Zidi Xiong, Bo Li. *NeurIPS 2023.*
+- **Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/2232e8fee69b150005ac420bfa83d705-Abstract-Conference.html)]
+    - Wenhan Yang, Jingdong Gao, Baharan Mirzasoleiman. *NeurIPS 2023.*
+- **Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/677c8dc72c99482507323f313faf4738-Abstract-Conference.html)]
+    - Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang. *NeurIPS 2023.*
+- **VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/6b055b95d689b1f704d8f92191cdb788-Abstract-Conference.html)]
+    - Sheng-Yen Chou, Pin-Yu Chen, Tsung-Yi Ho. *NeurIPS 2023.*
+- **BIRD: Generalizable Backdoor Detection and Removal for Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/802e90325f4c8546e13e5763b2ecab88-Abstract-Conference.html)]
+    - Xuan Chen, Wenbo Guo, Guanhong Tao, Xiangyu Zhang, Dawn Song. *NeurIPS 2023.*
+- **BadTrack: A Poison-Only Backdoor Attack on Visual Object Tracking.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/828bb8f42d4ab15322b9315151959c61-Abstract-Conference.html)]
+    - Bin Huang, Jiaqian Yu, Yiwei Chen, Siyang Pan, Qiang Wang, Zhi Wang. *NeurIPS 2023.*
+- **A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/c07d71ff0bc042e4b9acd626a79597fa-Abstract-Conference.html)]
+    - Hangfan Zhang, Jinyuan Jia, Jinghui Chen, Lu Lin, Dinghao Wu. *NeurIPS 2023.*
+- **IBA: Towards Irreversible Backdoor Attacks in Federated Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/d0c6bc641a56bebee9d985b937307367-Abstract-Conference.html)]
+    - Thuy Dung Nguyen, Tuan Nguyen, Anh Tran, Khoa D. Doan, Kok-Seng Wong. *NeurIPS 2023.*
+- **Setting the Trap: Capturing and Defeating Backdoors in Pretrained Language Models through Honeypots.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/e7938ede51225b490bb69f7b361a9259-Abstract-Conference.html)]
+    - Ruixiang (Ryan) Tang, Jiayi Yuan, Yiming Li, Zirui Liu, Rui Chen, Xia Hu. *NeurIPS 2023.*
+- **Towards Stable Backdoor Purification through Feature Shift Tuning.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/ee37d51b3c003d89acba2363dde256af-Abstract-Conference.html)]
+    - Rui Min, Zeyu Qin, Li Shen, Minhao Cheng. *NeurIPS 2023.*
+- **Moderate-fitting as a Natural Backdoor Defender for Pre-trained Language Models.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/0799492e7be38b66d10ead5e8809616d-Abstract-Conference.html)]
+    - Biru Zhu, Yujia Qin, Ganqu Cui, Yangyi Chen, Weilin Zhao, Chong Fu, Yangdong Deng, Zhiyuan Liu, Jingang Wang, Wei Wu, Maosong Sun, Ming Gu. *NeurIPS 2022.*
+- **A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/2052b3e0617ecb2ce9474a6feaf422b3-Abstract-Datasets_and_Benchmarks.html)]
+    - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, Maosong Sun. *NeurIPS 2022.*
+- **Handcrafted Backdoors in Deep Neural Networks.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/3538a22cd3ceb8f009cc62b9e535c29f-Abstract-Conference.html)]
+    - Sanghyun Hong, Nicholas Carlini, Alexey Kurakin. *NeurIPS 2022.*
+- **BackdoorBench: A Comprehensive Benchmark of Backdoor Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/4491ea1c91aa2b22c373e5f1dfce234f-Abstract-Datasets_and_Benchmarks.html)]
+    - Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen. *NeurIPS 2022.*
+- **Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/55bfedfd31489e5ae83c9ce8eec7b0e1-Abstract-Conference.html)]
+    - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, Bo Li. *NeurIPS 2022.*
+- **Pre-activation Distributions Expose Backdoor Neurons.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/76917808731dae9e6d62c2a7a6afb542-Abstract-Conference.html)]
+    - Runkai Zheng, Rongjun Tang, Jianze Li, Li Liu. *NeurIPS 2022.*
+- **Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/79eec295a3cd5785e18c61383e7c996b-Abstract-Conference.html)]
+    - Hossein Souri, Liam Fowl, Rama Chellappa, Micah Goldblum, Tom Goldstein. *NeurIPS 2022.*
+- **Finding Naturally Occurring Physical Backdoors in Image Datasets.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/8af749935131cc8ea5dae4f6d8cdb304-Abstract-Datasets_and_Benchmarks.html)]
+    - Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Heather Zheng, Ben Y. Zhao. *NeurIPS 2022.*
+- **One-shot Neural Backdoor Erasing via Adversarial Weight Masking.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/8c0f7107ab85892ccf51f0a814957af1-Abstract-Conference.html)]
+    - Shuwen Chai, Jinghui Chen. *NeurIPS 2022.*
+- **Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/db1d5c63576587fc1d40d33a75190c71-Abstract-Conference.html)]
+    - Ruisi Cai, Zhenyu Zhang, Tianlong Chen, Xiaohan Chen, Zhangyang Wang. *NeurIPS 2022.*
+- **Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/ea06e6e9e80f1c3d382317fff67041ac-Abstract-Conference.html)]
+    - Haotao Wang, Junyuan Hong, Aston Zhang, Jiayu Zhou, Zhangyang Wang. *NeurIPS 2022.*
+- **BadPrompt: Backdoor Attacks on Continuous Prompts.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/f0722b58f02d7793acf7d328928f933a-Abstract-Conference.html)]
+    - Xiangrui Cai, Haidong Xu, Sihan Xu, Ying Zhang, Xiaojie Yuan. *NeurIPS 2022.*
+- **Marksman Backdoor: Backdoor Attacks with Arbitrary Target Class.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/fa0126bb7ebad258bf4ffdbbac2dd787-Abstract-Conference.html)]
+    - Khoa D. Doan, Yingjie Lao, Ping Li. *NeurIPS 2022.*
+- **Anti-Backdoor Learning: Training Clean Models on Poisoned Data.** [[pdf](https://proceedings.neurips.cc/paper/2021/hash/7d38b1e9bd793d3f45e0e212a729a93c-Abstract.html)]
+   - Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, Xingjun Ma. *NeurIPS 2021.*
+- **Adversarial Neuron Pruning Purifies Backdoored Deep Models.** [[pdf](https://proceedings.neurips.cc/paper/2021/hash/8cbe9ce23f42628c98f80fa0fac8b19a-Abstract.html)]
+   - Dongxian Wu, Yisen Wang. *NeurIPS 2021.*
+- **Backdoor Attack with Imperceptible Input and Latent Modification.** [[pdf](https://proceedings.neurips.cc/paper/2021/hash/9d99197e2ebf03fc388d09f1e94af89b-Abstract.html)]
+   - Khoa D. Doan, Yingjie Lao, Ping Li. *NeurIPS 2021.*
+- **Excess Capacity and Backdoor Poisoning.** [[pdf](https://proceedings.neurips.cc/paper/2021/hash/aaebdb8bb6b0e73f6c3c54a0ab0c6415-Abstract.html)]
+   - Naren Manoj, Avrim Blum. *NeurIPS 2021.*
+- **Input-Aware Dynamic Backdoor Attack.** [[pdf](https://proceedings.neurips.cc/paper/2020/hash/234e691320c0ad5b45ee3c96d0d7b8f8-Abstract.html)]
+    - Tuan Anh Nguyen, Anh Tuan Tran. *NeurIPS 2020.*
+- **On the Trade-off between Adversarial and Backdoor Robustness.** [[pdf](https://proceedings.neurips.cc/paper/2020/hash/8b4066554730ddfaa0266346bdc1b202-Abstract.html)]
+    - Cheng-Hsin Weng, Yan-Ting Lee, Shan-Hung Wu. *NeurIPS 2020.*
+- **Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.** [[pdf](https://proceedings.neurips.cc/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html)]
+    - Hongyi Wang, Kartik Sreenivasan, Shashank Rajput, Harit Vishwakarma, Saurabh Agarwal, Jy-yong Sohn, Kangwook Lee, Dimitris S. Papailiopoulos. *NeurIPS 2020.*
+- **Defending Neural Backdoors via Generative Distribution Modeling.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/78211247db84d96acf4e00092a7fba80-Abstract.html)]
+    - Ximing Qiao, Yukun Yang, Hai Li. *NeurIPS 2019.*
+- **Spectral Signatures in Backdoor Attacks.** [[pdf](https://proceedings.neurips.cc/paper/2018/hash/280cf18baf4311c92aa5a042336587d3-Abstract.html)]
+    - Brandon Tran, Jerry Li, Aleksander Madry. *NeurIPS 2018.*
+
+#### ICLR
+
+- **BadJudge: Backdoor Vulnerabilities of LLM-As-A-Judge.** [[pdf](https://openreview.net/forum?id=eC2a2IndIt)]
+    - Terry Tong, Fei Wang, Zhe Zhao, Muhao Chen. *ICLR 2025.*
+- **Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems.** [[pdf](https://openreview.net/forum?id=S1Bv3068Xt)]
+    - Ruochen Jiao, Shaoyuan Xie, Justin Yue, Takami Sato, Lixu Wang, Yixuan Wang, Qi Alfred Chen, Qi Zhu. *ICLR 2025.*
+- **Wicked Oddities: Selectively Poisoning for Effective Clean-Label Backdoor Attacks.** [[pdf](https://openreview.net/forum?id=1Z3C49JQVf)]
+    - Nguyen Hung-Quang, Ngoc-Hieu Nguyen, The-Anh Ta, Thanh Nguyen-Tang, Kok-Seng Wong, Hoang Thanh-Tung, Khoa D. Doan. *ICLR 2025.*
+- **Injecting Universal Jailbreak Backdoors into LLMs in Minutes.** [[pdf](https://openreview.net/forum?id=aSy2nYwiZ2)]
+    - Zhuowei Chen, Qiannan Zhang, Shichao Pei. *ICLR 2025.*
+- **Backdooring Vision-Language Models with Out-Of-Distribution Data.** [[pdf](https://openreview.net/forum?id=tZozeR3VV7)]
+    - Weimin Lyu, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen. *ICLR 2025.*
+- **Bad-PFL: Exploiting Backdoor Attacks against Personalized Federated Learning.** [[pdf](https://openreview.net/forum?id=79nO2DPjVX)]
+    - Mingyuan Fan, Zhanyi Hu, Fuyi Wang, Cen Chen. *ICLR 2025.*
+- **Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection.** [[pdf](https://openreview.net/forum?id=8iTpB4RNvP)]
+    - Jiawei Liang, Siyuan Liang, Aishan Liu, Xiaojun Jia, Junhao Kuang, Xiaochun Cao. *ICLR 2024.*
+- **Influencer Backdoor Attack on Semantic Segmentation.** [[pdf](https://openreview.net/forum?id=VmGRoNDQgJ)]
+    - Haoheng Lan, Jindong Gu, Philip Torr, Hengshuang Zhao. *ICLR 2024.*
+- **Demystifying Poisoning Backdoor Attacks from a Statistical Perspective.** [[pdf](https://openreview.net/forum?id=BPHcEpGvF8)]
+    - Ganghua Wang, Xun Xian, Ashish Kundu, Jayanth Srinivasa, Xuan Bi, Mingyi Hong, Jie Ding. *ICLR 2024.*
+- **BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models.** [[pdf](https://openreview.net/forum?id=c93SBwz1Ma)]
+    - Zhen Xiang, Fengqing Jiang, Zidi Xiong, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li. *ICLR 2024.*
+- **Backdoor Contrastive Learning via Bi-level Trigger Optimization.** [[pdf](https://openreview.net/forum?id=oxjeePpgSP)]
+    - Weiyu Sun, Xinyu Zhang, Hao Lu, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin. *ICLR 2024.*
+- **Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective.** [[pdf](https://openreview.net/forum?id=iCNOK45Csv)]
+    - Ming-Yu Chung, Sheng-Yen Chou, Chia-Mu Yu, Pin-Yu Chen, Sy-Yen Kuo, Tsung-Yi Ho. *ICLR 2024.*
+- **BadEdit: Backdooring Large Language Models by Model Editing.** [[pdf](https://openreview.net/forum?id=duZANm2ABX)]
+    - Yanzhou Li, Tianlin Li, Kangjie Chen, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, Yang Liu. *ICLR 2024.*
+- **Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark.** [[pdf](https://openreview.net/forum?id=cObFETcoeW)]
+    - Mengxi Ya, Yiming Li, Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia. *ICLR 2024.*
+- **Universal Backdoor Attacks.** [[pdf](https://openreview.net/forum?id=3QkzYBSWqL)]
+    - Benjamin Schneider, Nils Lukas, Florian Kerschbaum. *ICLR 2024.*
+- **Backdoor Federated Learning by Poisoning Backdoor-Critical Layers.** [[pdf](https://openreview.net/forum?id=AJBGSVSTT2)]
+    - Haomin Zhuang, Mingxian Yu, Hao Wang, Yang Hua, Jian Li, Xu Yuan. *ICLR 2024.*
+- **Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios.** [[pdf](https://openreview.net/forum?id=vRyp2dhEQp)]
+    - Ziqiang Li, Hong Sun, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li. *ICLR 2024.*
+- **Universal Jailbreak Backdoors from Poisoned Human Feedback.** [[pdf](https://openreview.net/forum?id=GxCGsxiAaK)]
+    - Javier Rando, Florian Tramèr. *ICLR 2024.*
+- **Rethinking CNN's Generalization to Backdoor Attack from Frequency Domain.** [[pdf](https://openreview.net/forum?id=mYhH0CDFFa)]
+    - Quanrui Rao, Lin Wang, Wuying Liu. *ICLR 2024.*
+- **Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only.** [[pdf](https://openreview.net/forum?id=rFQfjDC9Mt)]
+    - Kangjie Chen, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang. *ICLR 2023.*
+- **FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning.** [[pdf](https://openreview.net/forum?id=Xo2E217_M4n)]
+    - Kaiyuan Zhang, Guanhong Tao, Qiuling Xu, Siyuan Cheng, Shengwei An, Yingqi Liu, Shiwei Feng, Guangyu Shen, Pin-Yu Chen, Shiqing Ma, Xiangyu Zhang. *ICLR 2023.*
+- **Few-shot Backdoor Attacks via Neural Tangent Kernels.** [[pdf](https://openreview.net/forum?id=a70lGJ-rwy)]
+    - Jonathan Hayase, Sewoong Oh. *ICLR 2023.*
+- **Revisiting the Assumption of Latent Separability for Backdoor Defenses.** [[pdf](https://openreview.net/forum?id=_wSHsgrVali)]
+    - Xiangyu Qi, Tinghao Xie, Yiming Li, Saeed Mahloujifar, Prateek Mittal. *ICLR 2023.*
+- **The Dark Side of AutoML: Towards Architectural Backdoor Search.** [[pdf](https://openreview.net/forum?id=bsZULlDGXe)]
+    - Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang. *ICLR 2023.*
+- **Poisoning and Backdooring Contrastive Learning.** [[pdf](https://openreview.net/forum?id=iC4UHbQ01Mp)]
+  - Nicholas Carlini, Andreas Terzis. *ICLR 2022.*
+- **BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.** [[pdf](https://openreview.net/forum?id=Mng8CQ9eBW)]
+  - Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, Chun Fan. *ICLR 2022.*
+- **Adversarial Unlearning of Backdoors via Implicit Hypergradient.** [[pdf](https://openreview.net/forum?id=MeeQkFYVbzW)]
+  - Yi Zeng, Si Chen, Won Park, Zhuoqing Mao, Ming Jin, Ruoxi Jia. *ICLR 2022.*
+- **Few-Shot Backdoor Attacks on Visual Object Tracking.** [[pdf](https://openreview.net/forum?id=qSV5CuSaK_a)]
+  - Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, Shu-Tao Xia. *ICLR 2022.*
+- **How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.** [[pdf](https://openreview.net/forum?id=Bn09TnDngN)]
+  - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun. *ICLR 2022.
+- **WaNet - Imperceptible Warping-based Backdoor Attack.** [[pdf](https://openreview.net/forum?id=eEn8KTtJOx)]
+    - Tuan Anh Nguyen, Anh Tuan Tran. *ICLR 2021.*
+- **DBA: Distributed Backdoor Attacks against Federated Learning.** [[pdf](https://openreview.net/forum?id=rkgyS0VFvr)]
+    - Chulin Xie, Keli Huang, Pin-Yu Chen, Bo Li. *ICLR 2020.*
 
 ---
 
@@ -230,91 +387,3 @@ To be continued...
 - **True2F: Backdoor-Resistant Authentication Tokens.** [[pdf](https://doi.org/10.1109/SP.2019.00048)]
     - Emma Dauterman, Henry Corrigan-Gibbs, David Mazières, Dan Boneh, Dominic Rizzo. *S&P 2019.*
 
----
-
-#### NeurIPS
-
-- **Injecting Undetectable Backdoors in Obfuscated Neural Networks and Language Models.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/263c763d00c6126d37ba670a1fa10847-Abstract-Conference.html)]
-    - Alkis Kalavasis, Amin Karbasi, Argyris Oikonomou, Katerina Sotiraki, Grigoris Velegkas, Manolis Zampetakis. *NeurIPS 2024.*
-- **Data Free Backdoor Attacks.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/2a7e91c6e4b68325d9884a7469804837-Abstract-Conference.html)]
-    - Bochuan Cao, Jinyuan Jia, Chuxuan Hu, Wenbo Guo, Zhen Xiang, Jinghui Chen, Bo Li, Dawn Song. *NeurIPS 2024.*
-- **WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/4ce18228ececb78bca04cbce069891b1-Abstract-Conference.html)]
-    - Jun Xia, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Yiyu Shi, Xian Wei, Mingsong Chen. *NeurIPS 2024.*
-- **Everyday Object Meets Vision-and-Language Navigation Agent via Backdoor.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/58e6c003c9fb3992265005ff6aef1913-Abstract-Conference.html)]
-    - Keji He, Kehan Chen, Jiawang Bai, Yan Huang, Qi Wu, Shu-Tao Xia, Liang Wang. *NeurIPS 2024.*
-- **Unelicitable Backdoors via Cryptographic Transformer Circuits.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/6087a60306544be7ba0d0cf34aa93c8f-Abstract-Conference.html)]
-    - Andis Draguns, Andrew Gritsevskiy, Sumeet Ramesh Motwani, Christian Schröder de Witt. *NeurIPS 2024.*
-- **Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/97d008f7873b8dd55cb6dd343fc4386f-Abstract-Conference.html)]
-    - Yuxin Wen, Leo Marchyok, Sanghyun Hong, Jonas Geiping, Tom Goldstein, Nicholas Carlini. *NeurIPS 2024.*
-- **Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/b6e9d6f4f3428cd5f3f9e9bbae2cab10-Abstract-Conference.html)]
-    - Wenkai Yang, Xiaohan Bi, Yankai Lin, Sishuo Chen, Jie Zhou, Xu Sun. *NeurIPS 2024.*
-- **SleeperNets: Universal Backdoor Poisoning Attacks Against Reinforcement Learning Agents.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/cb03b5108f1c3a38c990ef0b45bc8b31-Abstract-Conference.html)]
-    - Ethan Rathbun, Christopher Amato, Alina Oprea. *NeurIPS 2024.*
-- **BAN: Detecting Backdoors Activated by Adversarial Neuron Noise.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/cfaccbd9b5e62562779351ebcb140c94-Abstract-Conference.html)]
-    - Xiaoyun Xu, Zhuoran Liu, Stefanos Koffas, Shujian Yu, Stjepan Picek. *NeurIPS 2024.*
-- **BackTime: Backdoor Attacks on Multivariate Time Series Forecasting.** [[pdf](http://papers.nips.cc/paper_files/paper/2024/hash/ed3cd2520148b577039adfade82a5566-Abstract-Conference.html)]
-    - Xiao Lin, Zhining Liu, Dongqi Fu, Ruizhong Qiu, Hanghang Tong. *NeurIPS 2024.*
-- **CBD: A Certified Backdoor Detector Based on Local Dominant Probability.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/0fbf046448d7eea18b982001320b9a10-Abstract-Conference.html)]
-    - Zhen Xiang, Zidi Xiong, Bo Li. *NeurIPS 2023.*
-- **Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/2232e8fee69b150005ac420bfa83d705-Abstract-Conference.html)]
-    - Wenhan Yang, Jingdong Gao, Baharan Mirzasoleiman. *NeurIPS 2023.*
-- **Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/677c8dc72c99482507323f313faf4738-Abstract-Conference.html)]
-    - Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang. *NeurIPS 2023.*
-- **VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/6b055b95d689b1f704d8f92191cdb788-Abstract-Conference.html)]
-    - Sheng-Yen Chou, Pin-Yu Chen, Tsung-Yi Ho. *NeurIPS 2023.*
-- **BIRD: Generalizable Backdoor Detection and Removal for Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/802e90325f4c8546e13e5763b2ecab88-Abstract-Conference.html)]
-    - Xuan Chen, Wenbo Guo, Guanhong Tao, Xiangyu Zhang, Dawn Song. *NeurIPS 2023.*
-- **BadTrack: A Poison-Only Backdoor Attack on Visual Object Tracking.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/828bb8f42d4ab15322b9315151959c61-Abstract-Conference.html)]
-    - Bin Huang, Jiaqian Yu, Yiwei Chen, Siyang Pan, Qiang Wang, Zhi Wang. *NeurIPS 2023.*
-- **A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/c07d71ff0bc042e4b9acd626a79597fa-Abstract-Conference.html)]
-    - Hangfan Zhang, Jinyuan Jia, Jinghui Chen, Lu Lin, Dinghao Wu. *NeurIPS 2023.*
-- **IBA: Towards Irreversible Backdoor Attacks in Federated Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/d0c6bc641a56bebee9d985b937307367-Abstract-Conference.html)]
-    - Thuy Dung Nguyen, Tuan Nguyen, Anh Tran, Khoa D. Doan, Kok-Seng Wong. *NeurIPS 2023.*
-- **Setting the Trap: Capturing and Defeating Backdoors in Pretrained Language Models through Honeypots.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/e7938ede51225b490bb69f7b361a9259-Abstract-Conference.html)]
-    - Ruixiang (Ryan) Tang, Jiayi Yuan, Yiming Li, Zirui Liu, Rui Chen, Xia Hu. *NeurIPS 2023.*
-- **Towards Stable Backdoor Purification through Feature Shift Tuning.** [[pdf](http://papers.nips.cc/paper_files/paper/2023/hash/ee37d51b3c003d89acba2363dde256af-Abstract-Conference.html)]
-    - Rui Min, Zeyu Qin, Li Shen, Minhao Cheng. *NeurIPS 2023.*
-- **Moderate-fitting as a Natural Backdoor Defender for Pre-trained Language Models.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/0799492e7be38b66d10ead5e8809616d-Abstract-Conference.html)]
-    - Biru Zhu, Yujia Qin, Ganqu Cui, Yangyi Chen, Weilin Zhao, Chong Fu, Yangdong Deng, Zhiyuan Liu, Jingang Wang, Wei Wu, Maosong Sun, Ming Gu. *NeurIPS 2022.*
-- **A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/2052b3e0617ecb2ce9474a6feaf422b3-Abstract-Datasets_and_Benchmarks.html)]
-    - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, Maosong Sun. *NeurIPS 2022.*
-- **Handcrafted Backdoors in Deep Neural Networks.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/3538a22cd3ceb8f009cc62b9e535c29f-Abstract-Conference.html)]
-    - Sanghyun Hong, Nicholas Carlini, Alexey Kurakin. *NeurIPS 2022.*
-- **BackdoorBench: A Comprehensive Benchmark of Backdoor Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/4491ea1c91aa2b22c373e5f1dfce234f-Abstract-Datasets_and_Benchmarks.html)]
-    - Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen. *NeurIPS 2022.*
-- **Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/55bfedfd31489e5ae83c9ce8eec7b0e1-Abstract-Conference.html)]
-    - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, Bo Li. *NeurIPS 2022.*
-- **Pre-activation Distributions Expose Backdoor Neurons.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/76917808731dae9e6d62c2a7a6afb542-Abstract-Conference.html)]
-    - Runkai Zheng, Rongjun Tang, Jianze Li, Li Liu. *NeurIPS 2022.*
-- **Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/79eec295a3cd5785e18c61383e7c996b-Abstract-Conference.html)]
-    - Hossein Souri, Liam Fowl, Rama Chellappa, Micah Goldblum, Tom Goldstein. *NeurIPS 2022.*
-- **Finding Naturally Occurring Physical Backdoors in Image Datasets.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/8af749935131cc8ea5dae4f6d8cdb304-Abstract-Datasets_and_Benchmarks.html)]
-    - Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Heather Zheng, Ben Y. Zhao. *NeurIPS 2022.*
-- **One-shot Neural Backdoor Erasing via Adversarial Weight Masking.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/8c0f7107ab85892ccf51f0a814957af1-Abstract-Conference.html)]
-    - Shuwen Chai, Jinghui Chen. *NeurIPS 2022.*
-- **Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/db1d5c63576587fc1d40d33a75190c71-Abstract-Conference.html)]
-    - Ruisi Cai, Zhenyu Zhang, Tianlong Chen, Xiaohan Chen, Zhangyang Wang. *NeurIPS 2022.*
-- **Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/ea06e6e9e80f1c3d382317fff67041ac-Abstract-Conference.html)]
-    - Haotao Wang, Junyuan Hong, Aston Zhang, Jiayu Zhou, Zhangyang Wang. *NeurIPS 2022.*
-- **BadPrompt: Backdoor Attacks on Continuous Prompts.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/f0722b58f02d7793acf7d328928f933a-Abstract-Conference.html)]
-    - Xiangrui Cai, Haidong Xu, Sihan Xu, Ying Zhang, Xiaojie Yuan. *NeurIPS 2022.*
-- **Marksman Backdoor: Backdoor Attacks with Arbitrary Target Class.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/fa0126bb7ebad258bf4ffdbbac2dd787-Abstract-Conference.html)]
-    - Khoa D. Doan, Yingjie Lao, Ping Li. *NeurIPS 2022.*
-- **Anti-Backdoor Learning: Training Clean Models on Poisoned Data.** [[pdf](https://proceedings.neurips.cc/paper/2021/hash/7d38b1e9bd793d3f45e0e212a729a93c-Abstract.html)]
-   - Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, Xingjun Ma. *NeurIPS 2021.*
-- **Adversarial Neuron Pruning Purifies Backdoored Deep Models.** [[pdf](https://proceedings.neurips.cc/paper/2021/hash/8cbe9ce23f42628c98f80fa0fac8b19a-Abstract.html)]
-   - Dongxian Wu, Yisen Wang. *NeurIPS 2021.*
-- **Backdoor Attack with Imperceptible Input and Latent Modification.** [[pdf](https://proceedings.neurips.cc/paper/2021/hash/9d99197e2ebf03fc388d09f1e94af89b-Abstract.html)]
-   - Khoa D. Doan, Yingjie Lao, Ping Li. *NeurIPS 2021.*
-- **Excess Capacity and Backdoor Poisoning.** [[pdf](https://proceedings.neurips.cc/paper/2021/hash/aaebdb8bb6b0e73f6c3c54a0ab0c6415-Abstract.html)]
-   - Naren Manoj, Avrim Blum. *NeurIPS 2021.*
-- **Input-Aware Dynamic Backdoor Attack.** [[pdf](https://proceedings.neurips.cc/paper/2020/hash/234e691320c0ad5b45ee3c96d0d7b8f8-Abstract.html)]
-    - Tuan Anh Nguyen, Anh Tuan Tran. *NeurIPS 2020.*
-- **On the Trade-off between Adversarial and Backdoor Robustness.** [[pdf](https://proceedings.neurips.cc/paper/2020/hash/8b4066554730ddfaa0266346bdc1b202-Abstract.html)]
-    - Cheng-Hsin Weng, Yan-Ting Lee, Shan-Hung Wu. *NeurIPS 2020.*
-- **Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.** [[pdf](https://proceedings.neurips.cc/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html)]
-    - Hongyi Wang, Kartik Sreenivasan, Shashank Rajput, Harit Vishwakarma, Saurabh Agarwal, Jy-yong Sohn, Kangwook Lee, Dimitris S. Papailiopoulos. *NeurIPS 2020.*
-- **Defending Neural Backdoors via Generative Distribution Modeling.** [[pdf](https://proceedings.neurips.cc/paper/2019/hash/78211247db84d96acf4e00092a7fba80-Abstract.html)]
-    - Ximing Qiao, Yukun Yang, Hai Li. *NeurIPS 2019.*
-- **Spectral Signatures in Backdoor Attacks.** [[pdf](https://proceedings.neurips.cc/paper/2018/hash/280cf18baf4311c92aa5a042336587d3-Abstract.html)]
-    - Brandon Tran, Jerry Li, Aleksander Madry. *NeurIPS 2018.*
