@@ -517,7 +517,6 @@ To be continued...
   - Ka-Ho Chow, Wenqi Wei, Lei Yu. *IJCAI 2024.*
 - **DarkFed: A Data-Free Backdoor Attack in Federated Learning.** [[pdf](https://www.ijcai.org/proceedings/2024/491)]
   - Minghui Li, Wei Wan, Yuxuan Ning, Shengshan Hu, Lulu Xue, Leo Yu Zhang, Yichen Wang. *IJCAI 2024.*
-
 - **PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning.** [[pdf](https://doi.org/10.24963/ijcai.2022/96)]
     - Wei Du, Yichun Zhao, Boqun Li, Gongshen Liu, Shilin Wang. *IJCAI 2022.*
 - **Imperceptible Backdoor Attack: From Input Space to Feature Representation.** [[pdf](https://doi.org/10.24963/ijcai.2022/242)]
@@ -526,7 +525,6 @@ To be continued...
     - Hongsheng Hu, Zoran Salcic, Gillian Dobbie, Jinjun Chen, Lichao Sun, Xuyun Zhang. *IJCAI 2022.*
 - **Data-Efficient Backdoor Attacks.** [[pdf](https://doi.org/10.24963/ijcai.2022/554)]
     - Pengfei Xia, Ziqiang Li, Wei Zhang, Bin Li. *IJCAI 2022.*
-
 - **Backdoor DNFs.** [[pdf](https://doi.org/10.24963/ijcai.2021/194)]
     - Sebastian Ordyniak, André Schidler, Stefan Szeider. *IJCAI 2021.*
 - **BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2021/509)]
