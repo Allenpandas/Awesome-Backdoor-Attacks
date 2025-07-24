@@ -479,3 +479,26 @@ To be continued...
     - Yuhua Sun, Tailai Zhang, Xingjun Ma, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun. *ACM MM 2022.*
 - **Anti-Distillation Backdoor Attacks: Backdoors Can Really Survive in Knowledge Distillation.** [[pdf](https://doi.org/10.1145/3474085.3475254)]
   - Yunjie Ge, Qian Wang, Baolin Zheng, Xinlu Zhuang, Qi Li, Chao Shen, Cong Wang. *ACM MM 2021.*
+
+---
+
+#### ICCV
+
+- **An Embarrassingly Simple Backdoor Attack on Self-supervised Learning.** [[pdf](https://doi.org/10.1109/ICCV51070.2023.00403)]
+    - Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang. *ICCV 2023.*
+- **Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis.** [[pdf](https://doi.org/10.1109/ICCV51070.2023.00423)]
+    - Lukas Struppek, Dominik Hintersdorf, Kristian Kersting. *ICCV 2023.*
+- **The Perils of Learning From Unlabeled Data: Backdoor Attacks on Semi-supervised Learning.** [[pdf](https://doi.org/10.1109/ICCV51070.2023.00436)]
+    - Virat Shejwalkar, Lingjuan Lyu, Amir Houmansadr. *ICCV 2023.*
+- **Computation and Data Efficient Backdoor Attacks.** [[pdf](https://doi.org/10.1109/ICCV51070.2023.00443)]
+    - Yutong Wu, Xingshuo Han, Han Qiu, Tianwei Zhang. *ICCV 2023.*
+- **A Backdoor Attack against 3D Point Cloud Classifiers.** [[pdf](https://doi.org/10.1109/ICCV48922.2021.00750)]
+    - Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, George Kesidis. *ICCV 2021.*
+- **LIRA: Learnable, Imperceptible and Robust Backdoor Attacks.** [[pdf](https://doi.org/10.1109/ICCV48922.2021.01175)]
+    - Khoa D. Doan, Yingjie Lao, Weijie Zhao, Ping Li. *ICCV 2021.*
+- **Invisible Backdoor Attack with Sample-Specific Triggers.** [[pdf](https://doi.org/10.1109/ICCV48922.2021.01615)]
+    - Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu. *ICCV 2021.*
+- **Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.** [[pdf](https://doi.org/10.1109/ICCV48922.2021.01616)]
+    - Yi Zeng, Won Park, Z. Morley Mao, Ruoxi Jia. *ICCV 2021.*
+- **PointBA: Towards Backdoor Attacks in 3D Point Cloud.** [[pdf](https://doi.org/10.1109/ICCV48922.2021.01618)]
+    - Xinke Li, Zhirui Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, Joey Tianyi Zhou. *ICCV 2021.*
