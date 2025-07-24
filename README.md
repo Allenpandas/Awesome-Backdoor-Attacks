@@ -29,12 +29,12 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
 - [UsenixSecurity (21~24)](#UsenixSecurity) ✅ UsenixSecurity'25 🔍
 - [ICML (21~24)](#ICML) ✅ ICML'25 🔍
 - [MM (21~24)](#ACM-MM) ✅ ACM MM'25 🔍
-- ACL
-- IJCAI
-- ECCV
-- NDSS
-- CCS
-- ICCV
+- [ACL (21~25)](#ACL) ✅
+- [IJCAI (21~24)](#IJCAI)  ✅ IJCAI'25 🔍
+- [ECCV (20~24)](#ECCV) ✅
+- [NDSS (23~25)](#NDSS) ✅
+- [CCS (19~24)](#CCS) ✅ CCS'25 🔍
+- [ICCV (21~23)](#ICCV) ✅ ICCV'25 🔍
 
 ### Refine by Year
 
@@ -479,6 +479,113 @@ To be continued...
     - Yuhua Sun, Tailai Zhang, Xingjun Ma, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun. *ACM MM 2022.*
 - **Anti-Distillation Backdoor Attacks: Backdoors Can Really Survive in Knowledge Distillation.** [[pdf](https://doi.org/10.1145/3474085.3475254)]
   - Yunjie Ge, Qian Wang, Baolin Zheng, Xinlu Zhuang, Qi Li, Chao Shen, Cong Wang. *ACM MM 2021.*
+
+---
+
+#### ACL
+
+- **When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations.** [[pdf](https://aclanthology.org/2025.acl-long.114/)]
+    - Huaizhi Ge, Yiming Li, Qifan Wang, Yongfeng Zhang, Ruixiang Tang. *ACL 2025.*
+- **BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents.** [[pdf](https://doi.org/10.18653/v1/2024.acl-long.530)]
+  - Yifei Wang, Dizhan Xue, Shengjie Zhang, Shengsheng Qian. *ACL 2024.*
+- **A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning.** [[pdf](https://doi.org/10.18653/v1/2023.acl-long.194)]
+    - Naibin Gu, Peng Fu, Xiyu Liu, Zhengxiao Liu, Zheng Lin, Weiping Wang. *ACL 2023.*
+- **Multi-target Backdoor Attacks for Code Pre-trained Models.** [[pdf](https://doi.org/10.18653/v1/2023.acl-long.399)]
+    - Yanzhou Li, Shangqing Liu, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, Yang Liu. *ACL 2023.*
+- **Backdooring Neural Code Search.** [[pdf](https://doi.org/10.18653/v1/2023.acl-long.540)]
+    - Weisong Sun, Yuchen Chen, Guanhong Tao, Chunrong Fang, Xiangyu Zhang, Quanjun Zhang, Bin Luo. *ACL 2023.*
+- **BITE: Textual Backdoor Attacks with Iterative Trigger Injection.** [[pdf](https://doi.org/10.18653/v1/2023.acl-long.725)]
+    - Jun Yan, Vansh Gupta, Xiang Ren. *ACL 2023.*
+- **NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models.** [[pdf](https://doi.org/10.18653/v1/2023.acl-long.867)]
+    - Kai Mei, Zheng Li, Zhenting Wang, Yang Zhang, Shiqing Ma. *ACL 2023.*
+- **Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger.** [[pdf](https://doi.org/10.18653/v1/2021.acl-long.37)]
+    - Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, Maosong Sun. *ACL 2021.*
+- **Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution.** [[pdf](https://doi.org/10.18653/v1/2021.acl-long.377)]
+    - Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, Maosong Sun. *ACL 2021.*
+- **Rethinking Stealthiness of Backdoor Attack against NLP Models.** [[pdf](https://doi.org/10.18653/v1/2021.acl-long.431)]
+    - Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou, Xu Sun. *ACL 2021.*
+
+---
+
+#### IJCAI
+
+- **BadFusion: 2D-Oriented Backdoor Attacks against 3D Object Detection.** [[pdf](https://www.ijcai.org/proceedings/2024/39)]
+  - Saket S. Chaturvedi, Lan Zhang, Wenbin Zhang, Pan He, Xiaoyong Yuan. *IJCAI 2024.*
+- **BADFSS: Backdoor Attacks on Federated Self-Supervised Learning.** [[pdf](https://www.ijcai.org/proceedings/2024/61)]
+  - Jiale Zhang, Chengcheng Zhu, Di Wu, Xiaobing Sun, Jianming Yong, Guodong Long. *IJCAI 2024.*
+- **Imperio: Language-Guided Backdoor Attacks for Arbitrary Model Control.** [[pdf](https://www.ijcai.org/proceedings/2024/78)]
+  - Ka-Ho Chow, Wenqi Wei, Lei Yu. *IJCAI 2024.*
+- **DarkFed: A Data-Free Backdoor Attack in Federated Learning.** [[pdf](https://www.ijcai.org/proceedings/2024/491)]
+  - Minghui Li, Wei Wan, Yuxuan Ning, Shengshan Hu, Lulu Xue, Leo Yu Zhang, Yichen Wang. *IJCAI 2024.*
+
+- **PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning.** [[pdf](https://doi.org/10.24963/ijcai.2022/96)]
+    - Wei Du, Yichun Zhao, Boqun Li, Gongshen Liu, Shilin Wang. *IJCAI 2022.*
+- **Imperceptible Backdoor Attack: From Input Space to Feature Representation.** [[pdf](https://doi.org/10.24963/ijcai.2022/242)]
+    - Nan Zhong, Zhenxing Qian, Xinpeng Zhang. *IJCAI 2022.*
+- **Membership Inference via Backdooring.** [[pdf](https://doi.org/10.24963/ijcai.2022/532)]
+    - Hongsheng Hu, Zoran Salcic, Gillian Dobbie, Jinjun Chen, Lichao Sun, Xuyun Zhang. *IJCAI 2022.*
+- **Data-Efficient Backdoor Attacks.** [[pdf](https://doi.org/10.24963/ijcai.2022/554)]
+    - Pengfei Xia, Ziqiang Li, Wei Zhang, Bin Li. *IJCAI 2022.*
+
+- **Backdoor DNFs.** [[pdf](https://doi.org/10.24963/ijcai.2021/194)]
+    - Sebastian Ordyniak, André Schidler, Stefan Szeider. *IJCAI 2021.*
+- **BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2021/509)]
+    - Lun Wang, Zaynah Javed, Xian Wu, Wenbo Guo, Xinyu Xing, Dawn Song. *IJCAI 2021.*
+
+---
+
+#### ECCV
+
+- **WBP: Training-Time Backdoor Attacks Through Hardware-Based Weight Bit Poisoning.** [[pdf](https://doi.org/10.1007/978-3-031-73650-6_11)]
+  - Kunbei Cai, Zhenkai Zhang3460, Qian Lou, Fan Yao. *ECCV 2024*
+- **Data Poisoning Quantization Backdoor Attack.** [[pdf](https://doi.org/10.1007/978-3-031-72907-2_3)]
+  - Tran Huynh, Anh Tran, Khoa D. Doan, Tung Pham. *ECCV 2024*
+- **TrojVLM: Backdoor Attack Against Vision Language Models.** [[pdf](https://doi.org/10.1007/978-3-031-73650-6_27)]
+  - Weimin Lyu, Lu Pang, Tengfei Ma, Haibin Ling, Chao Chen. *ECCV 2024*
+- **Flatness-Aware Sequential Learning Generates Resilient Backdoors.** [[pdf](https://doi.org/10.1007/978-3-031-73021-4_6)]
+  - Hoang Pham, The-Anh Ta,  Anh Tran, Khoa D. Doan. *ECCV 2024.*
+- **Event Trojan: Asynchronous Event-Based Backdoor Attacks.** [[pdf](https://doi.org/10.1007/978-3-031-72667-5_18)]
+  - Ruofei Wang, Qing Guo, Haoliang Li, Renjie Wan. *ECCV 2024.*
+- **Towards Physical World Backdoor Attacks Against Skeleton Action Recognition.** [[pdf](https://doi.org/10.1007/978-3-031-73195-2_13)]
+  - Qichen Zheng, Yi Yu, Siyuan Yang, Jun Liu, Kwok-Yan Lam, Alex ChiChung Kot. *ECCV 2024.*
+- **RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN.** [[pdf](https://doi.org/10.1007/978-3-031-19772-7_41)]
+  - Huy Phan, Cong Shi, Yi Xie, Tianfang Zhang, Zhuohang Li, Tianming Zhao, Jian Liu, Yan Wang, Yingying Chen, Bo Yuan. *ECCV 2022.*
+- **An Invisible Black-Box Backdoor Attack Through Frequency Domain.** [[pdf](https://doi.org/10.1007/978-3-031-19778-9_23)]
+  - Tong Wang, Yuan Yao, Feng Xu, Shengwei An, Hanghang Tong, Ting Wang. *ECCV 2022.*
+- **Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.** [[pdf](https://doi.org/10.1007/978-3-030-58607-2_11)]
+  - Yunfei Liu, Xingjun Ma, James Bailey, Feng Lu. *ECCV 2020.*
+
+---
+
+#### NDSS
+
+- **LADDER: Multi-Objective Backdoor Attack via Evolutionary Algorithm.** [[pdf](https://www.ndss-symposium.org/ndss-paper/ladder-multi-objective-backdoor-attack-via-evolutionary-algorithm/)]
+  - Dazhuang Liu, Yanqi Qiao, Rui Wang, Kaitai Liang, Georgios Smaragdakis. *NDSS 2025.*
+- **Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering.** [[pdf](https://www.ndss-symposium.org/ndss-paper/gradient-shaping-enhancing-backdoor-attack-against-reverse-engineering/)]
+  - Rui Zhu, Di Tang, Siyuan Tang, Zihao Wang, Guanhong Tao, Shiqing Ma, XiaoFeng Wang, Haixu Tang. *NDSS 2024.*
+- **Backdoor Attacks Against Dataset Distillation.** [[pdf](https://www.ndss-symposium.org/ndss-paper/backdoor-attacks-against-dataset-distillation/)]
+  - Yugeng Liu, Zheng Li, Michael Backes, Yun Shen, Yang Zhang. *NDSS 2023.*
+
+---
+
+#### CCS
+
+- **Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses.** [[pdf](https://doi.org/10.1145/3658644.3690187)]
+  - Yuxin Yang, Qiang Li, Jinyuan Jia, Yuan Hong, Binghui Wang. *CCS 2024.*
+- **BadMerging: Backdoor Attacks Against Model Merging.** [[pdf](https://doi.org/10.1145/3658644.3690284)]
+  - Jinghuai Zhang, Jianfeng Chi, Zheng Li, Kunlin Cai, Yang Zhang, Yuan Tian. *CCS 2024.*
+- **Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense.** [[pdf](https://doi.org/10.1145/3658644.3670361)]
+  - Hua Ma, Shang Wang, Yansong Gao, Zhi Zhang, Huming Qiu, Minhui Xue, Alsharif Abuadbba, Anmin Fu, Surya Nepal, Derek Abbott. *CCS 2024.*
+- **Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.** [[pdf](https://doi.org/10.1145/3576915.3616617)]
+    - Yi Zeng, Minzhou Pan, Hoang Anh Just, Lingjuan Lyu, Meikang Qiu, Ruoxi Jia. *CCS 2023.*
+- **Hidden Backdoors in Human-Centric Language Models.** [[pdf](https://doi.org/10.1145/3460120.3484576)]
+    - Shaofeng Li, Hui Liu, Tian Dong, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu, Jialiang Lu. *CCS 2021.*
+- **Backdoor Pre-trained Models Can Transfer to All.** [[pdf](https://doi.org/10.1145/3460120.3485370)]
+    - Lujia Shen, Shouling Ji, Xuhong Zhang, Jinfeng Li, Jing Chen, Jie Shi, Chengfang Fang, Jianwei Yin, Ting Wang. *CCS 2021.*
+- **Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features.** [[pdf](https://doi.org/10.1145/3372297.3423362)]
+    - Junyu Lin, Lei Xu, Yingqi Liu, Xiangyu Zhang. *CCS 2020.*
+- **Latent Backdoor Attacks on Deep Neural Networks.** [[pdf](https://doi.org/10.1145/3319535.3354209)]
+    - Yuanshun Yao, Huiying Li, Haitao Zheng, Ben Y. Zhao. *CCS 2019.*
 
 ---
 
