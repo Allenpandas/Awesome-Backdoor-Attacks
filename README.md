@@ -27,12 +27,10 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
 - [S&P (19~25)](#./S&P) ✅
 - TDSC
 - Usenix Security
-- ICML
+- [ICML (21~24)](#./ICML) ✅ ICML'25 🔍
 - MM
 - ACL
-
 - IJCAI
-
 - ECCV
 - NDSS
 - CCS
@@ -387,3 +385,28 @@ To be continued...
 - **True2F: Backdoor-Resistant Authentication Tokens.** [[pdf](https://doi.org/10.1109/SP.2019.00048)]
     - Emma Dauterman, Henry Corrigan-Gibbs, David Mazières, Dan Boneh, Dominic Rizzo. *S&P 2019.*
 
+#### ICML
+
+- **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright BreachesWithout Adjusting Finetuning Pipeline.** [[pdf](https://openreview.net/forum?id=ZvFLbEPv6x)]
+    - Haonan Wang, Qianli Shen, Yao Tong, Yang Zhang, Kenji Kawaguchi. *ICML 2024.*
+- **A Theoretical Analysis of Backdoor Poisoning Attacks in Convolutional Neural Networks.** [[pdf](https://openreview.net/forum?id=SfcB4cVvPz)]
+    - Boqi Li, Weiwei Liu. *ICML 2024.*
+- **Privacy Backdoors: Stealing Data with Corrupted Pretrained Models.** [[pdf](https://openreview.net/forum?id=7yixJXmzb8)]
+    - Shanglun Feng, Florian Tramèr. *ICML 2024.*
+- **Generalization Bound and New Algorithm for Clean-Label Backdoor Attack.** [[pdf](https://openreview.net/forum?id=ZdqiT0McON)]
+    - Lijia Yu, Shuang Liu, Yibo Miao, Xiao-Shan Gao, Lijun Zhang. *ICML 2024.*
+
+- **Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning.** [[pdf](https://proceedings.mlr.press/v202/dai23a.html)]
+    - Yanbo Dai, Songze Li. *ICML 2023.*
+- **Rethinking Backdoor Attacks.** [[pdf](https://proceedings.mlr.press/v202/khaddaj23a.html)]
+    - Alaa Khaddaj, Guillaume Leclerc, Aleksandar Makelov, Kristian Georgiev, Hadi Salman, Andrew Ilyas, Aleksander Madry. *ICML 2023.*
+- **Understanding Backdoor Attacks through the Adaptability Hypothesis.** [[pdf](https://proceedings.mlr.press/v202/xian23a.html)]
+    - Xun Xian, Ganghua Wang, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, Jie Ding. *ICML 2023.*
+- **UMD: Unsupervised Model Detection for X2X Backdoor Attacks.** [[pdf](https://proceedings.mlr.press/v202/xiang23a.html)]
+    - Zhen Xiang, Zidi Xiong, Bo Li. *ICML 2023.*
+- **Graph Contrastive Backdoor Attacks.** [[pdf](https://proceedings.mlr.press/v202/zhang23e.html)]
+    - Hangfan Zhang, Jinghui Chen, Lu Lin, Jinyuan Jia, Dinghao Wu. *ICML 2023.*
+- **Neurotoxin: Durable Backdoors in Federated Learning.** [[pdf](https://proceedings.mlr.press/v162/zhang22w.html)]
+    - Zhengming Zhang, Ashwinee Panda, Linyue Song, Yaoqing Yang, Michael W. Mahoney, Prateek Mittal, Kannan Ramchandran, Joseph Gonzalez. *ICML 2022.*
+- **Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.** [[pdf](http://proceedings.mlr.press/v139/schwarzschild21a.html)]
+    - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P. Dickerson, Tom Goldstein. *ICML 2021.*
