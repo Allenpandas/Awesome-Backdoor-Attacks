@@ -19,14 +19,14 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
 
 ## Paper List
 
-- [AAAI (20~25)](./AAAI) ✅
-- [NeurIPS (18~24)](./NeurIPS) ✅ NeruIPS'25 🔍
-- [ICLR (20~25)](./ICLR) ✅
-- [CVPR (20~25)](./CVPR) ✅
+- [AAAI (20~25)](#AAAI) ✅
+- [NeurIPS (18~24)](#NeurIPS) ✅ NeruIPS'25 🔍
+- [ICLR (20~25)](#ICLR) ✅
+- [CVPR (20~25)](#CVPR) ✅
 - TIFS
-- [S&P (19~25)](./S&P) ✅
+- [S&P (19~25)](#S&P) ✅
 - TDSC
-- [Usenix Security (21~24)](./Usenix Security) ✅ Usenix Security'25 🔍
+- [UsenixSecurity (21~24)](#UsenixSecurity) ✅ UsenixSecurity'25 🔍
 - [ICML (21~24)](#ICML) ✅ ICML'25 🔍
 - MM
 - ACL
@@ -387,7 +387,7 @@ To be continued...
 
 ---
 
-#### Usenix Security
+#### UsenixSecurity
 
 - **An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.** [[pdf](https://www.usenix.org/conference/usenixsecurity24/presentation/yan)]
     - Shenao Yan, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong. *Usenix Security 2024.*
