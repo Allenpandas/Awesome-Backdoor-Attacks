@@ -28,7 +28,7 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
 - TDSC
 - [UsenixSecurity (21~24)](#UsenixSecurity) ✅ UsenixSecurity'25 🔍
 - [ICML (21~24)](#ICML) ✅ ICML'25 🔍
-- [MM (21~24)](#ACMMM) ✅ ACM MM'25 🔍
+- [MM (21~24)](#ACM-MM) ✅ ACM MM'25 🔍
 - ACL
 - IJCAI
 - ECCV
