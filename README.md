@@ -26,7 +26,7 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
 - TIFS
 - [S&P (19~25)](#./S&P) ✅
 - TDSC
-- Usenix Security
+- [Usenix Security (21~24)](#./Usenix Security) ✅ Usenix Security'25 🔍
 - [ICML (21~24)](#./ICML) ✅ ICML'25 🔍
 - MM
 - ACL
@@ -384,6 +384,45 @@ To be continued...
     - Jinyuan Jia, Yupei Liu, Neil Zhenqiang Gong. *S&P 2022.*
 - **True2F: Backdoor-Resistant Authentication Tokens.** [[pdf](https://doi.org/10.1109/SP.2019.00048)]
     - Emma Dauterman, Henry Corrigan-Gibbs, David Mazières, Dan Boneh, Dominic Rizzo. *S&P 2019.*
+
+---
+
+#### Usenix Security
+
+- **An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.** [[pdf](https://www.usenix.org/conference/usenixsecurity24/presentation/yan)]
+    - Shenao Yan, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong. *Usenix Security 2024.*
+- **Instruction Backdoor Attacks Against Customized LLMs.** [[pdf](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-rui)]
+    - Rui Zhang, Hongwei Li, Rui Wen, Wenbo Jiang, Yuan Zhang, Michael Backes, Yun Shen, Yang Zhang. *Usenix Security 2024.*
+- **On the Difficulty of Defending Contrastive Learning against Backdoor Attacks.** [[pdf](https://www.usenix.org/conference/usenixsecurity24/presentation/li-changjiang)]
+    - Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang. *Usenix Security 2024.*
+- **Mudjacking: Patching Backdoor Vulnerabilities in Foundation Models.** [[pdf](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-hongbin)]
+    - Hongbin Liu, Michael K. Reiter, Neil Zhenqiang Gong. *Usenix Security 2024.*
+- **Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning.** [[pdf](https://www.usenix.org/conference/usenixsecurity24/presentation/lyu)]
+    - Xiaoting Lyu, Yufei Han, Wei Wang, Jingkai Liu, Yongsheng Zhu, Guangquan Xu, Jiqiang Liu, Xiangliang Zhang. *Usenix Security 2024.*
+- **UBA-Inf: Unlearning Activated Backdoor Attack with Influence-Driven Camouflage.** [[pdf](https://www.usenix.org/conference/usenixsecurity24/presentation/huang-zirui)]
+    - Zirui Huang, Yunlong Mao, Sheng Zhong. *Usenix Security 2024.*
+- **Devil in the Room: Triggering Audio Backdoors in the Physical World.** [[pdf](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-meng)]
+    - Meng Chen, Xiangyu Xu, Li Lu, Zhongjie Ba, Feng Lin, Kui Ren. *Usenix Security 2024.*
+- **PELICAN: Exploiting Backdoors of Naturally Trained Deep Learning Models In Binary Code Analysis.** [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-zhuo-pelican)]
+    - Zhuo Zhang, Guanhong Tao, Guangyu Shen, Shengwei An, Qiuling Xu, Yingqi Liu, Yapeng Ye, Yaoxuan Wu, Xiangyu Zhang. *Usenix Security 2023.*
+- **A Data-free Backdoor Injection Approach in Neural Networks.** [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/lv)]
+    - Peizhuo Lv, Chang Yue, Ruigang Liang, Yunfei Yang, Shengzhi Zhang, Hualong Ma, Kai Chen. *Usenix Security 2023.*
+- **Sparsity Brings Vulnerabilities: Exploring New Metrics in Backdoor Attacks.** [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/tian)]
+    - Jianwen Tian, Kefan Qiu, Debin Gao, Zhi Wang, Xiaohui Kuang, Gang Zhao. *Usenix Security 2023.*
+- **Aliasing Backdoor Attacks on Pre-trained Models.** [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/wei-chengan)]
+    - Cheng'an Wei, Yeonjoon Lee, Kai Chen, Guozhu Meng, Peizhuo Lv. *Usenix Security 2023.*
+- **VILLAIN: Backdoor Attacks Against Vertical Split Learning.** [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/bai)]
+    - Yijie Bai, Yanjiao Chen, Hanlei Zhang, Wenyuan Xu, Haiqin Weng, Dou Goodman. *Usenix Security 2023.*
+- **Hidden Trigger Backdoor Attack on NLP Models via Linguistic Style Manipulation.** [[pdf](https://www.usenix.org/conference/usenixsecurity22/presentation/pan-hidden)]
+    - Xudong Pan, Mi Zhang, Beina Sheng, Jiaming Zhu, Min Yang. *Usenix Security 2022.*
+- **Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.** [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/severi)]
+    - Giorgio Severi, Jim Meyer, Scott E. Coull, Alina Oprea. *Usenix Security 2021.*
+- **Blind Backdoors in Deep Learning Models.** [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/bagdasaryan)]
+    - Eugene Bagdasaryan, Vitaly Shmatikov. *Usenix Security 2021.*
+- **Graph Backdoor.** [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/xi)]
+    - Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang. *Usenix Security 2021.*
+
+---
 
 #### ICML
 
