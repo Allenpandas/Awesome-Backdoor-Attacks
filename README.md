@@ -23,9 +23,9 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
 - [NeurIPS (18~24)](#NeurIPS) ✅ NeruIPS'25 🔍
 - [ICLR (20~25)](#ICLR) ✅
 - [CVPR (20~25)](#CVPR) ✅
-- TIFS
+- [TIFS (21~25)](#TIFS) ✅ TIFS'25 to be continued 🔍
 - [S&P (19~25)](#SP) ✅
-- TDSC
+- [TDSC (21~25)](#TDSC) ✅ TDSC'25 to be continued 🔍
 - [Usenix Security (21~24)](#Usenix-Security) ✅ UsenixSecurity'25 🔍
 - [ICML (21~24)](#ICML) ✅ ICML'25 🔍
 - [MM (21~24)](#ACM-MM) ✅ ACM MM'25 🔍
@@ -271,6 +271,57 @@ To be continued...
 
 ---
 
+#### TIFS
+
+- **Compromising LLM Driven Embodied Agents With Contextual Backdoor Attacks.** [[pdf](https://doi.org/10.1109/TIFS.2025.3555410)]
+  - Aishan Liu, Yuguang Zhou, Xianglong Liu, Tianyuan Zhang, Siyuan Liang, Jiakai Wang, Yanjun Pu, Tianlin Li, Junqi Zhang, Wenbo Zhou, Qing Guo, Dacheng Tao. *TIFS 2025.*
+- **CapsuleBD: A Backdoor Attack Method Against Federated Learning Under Heterogeneous Models.** [[pdf](https://doi.org/10.1109/TIFS.2025.3556346)]
+  - Yuying Liao, Xuechen Zhao, Bin Zhou, Yanyi Huang. *TIFS 2025.*
+- **Affinity Backdoor Attacks in Point Clouds: A Novel Method Resilient to Corruption.** [[pdf](https://doi.org/10.1109/TIFS.2025.3575274)]
+  - Tianchong Gao, Zeyu Xia, Yongming Pan. *TIFS 2025.*
+- **Backdoor Attack on Self-Supervised Learning-Based RFF Identification Using Spectrum Enhanced Insensitive Perturbation Trigger.** [[pdf](https://doi.org/10.1109/TIFS.2025.3577013)]
+  - Zhisheng Yao, Guan Gui. *TIFS 2025.*
+- **Backdoor Attack on Deep Learning-Based Medical Image Encryption and Decryption Network.** [[pdf](https://doi.org/10.1109/TIFS.2023.3322315)]
+  - Yi Ding, Zi Wang, Zhen Qin, Erqiang Zhou, Guobin Zhu, Zhiguang Qin, Kim-Kwang Raymond Choo. *TIFS 2024.*
+- **Invisible Backdoor Attack With Dynamic Triggers Against Person Re-Identification.** [[pdf](https://doi.org/10.1109/TIFS.2023.3322659)]
+  - Wenli Sun, Xinyang Jiang, Shuguang Dou, Dongsheng Li, Duoqian Miao, Cheng Deng, Cairong Zhao. *TIFS 2024.*
+- **Verifying in the Dark: Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.** [[pdf](https://doi.org/10.1109/TIFS.2023.3328269)]
+  - Yu Guo, Yu Zhao, Saihui Hou, Cong Wang, Xiaohua Jia. *TIFS 2024.*
+- **Backdoor Attack Against Split Neural Network-Based Vertical Federated Learning.** [[pdf](https://doi.org/10.1109/TIFS.2023.3327853)]
+  - Ying He, Zhili Shen, Jingyu Hua, Qixuan Dong, Jiacheng Niu, Wei Tong, Xu Huang, Chen Li, Sheng Zhong. *TIFS 2024.*
+- **Imperceptible and Robust Backdoor Attack in 3D Point Cloud.** [[pdf](https://doi.org/10.1109/TIFS.2023.3333687)]
+  - Kuofeng Gao, Jiawang Bai, Baoyuan Wu, Mengxi Ya, Shu-Tao Xia. *TIFS 2024.*
+- **MBA: Backdoor Attacks Against 3D Mesh Classifier.** [[pdf](https://doi.org/10.1109/TIFS.2023.3346644)]
+  - Linkun Fan, Fazhi He, Tongzhen Si, Rubin Fan, Chuanlong Ye, Bing Li. *TIFS 2024.*
+- **On Model Outsourcing Adaptive Attacks to Deep Learning Backdoor Defenses.** [[pdf](https://doi.org/10.1109/TIFS.2024.3349869)]
+  - Huaibing Peng, Huming Qiu, Hua Ma, Shuo Wang, Anmin Fu, Said F. Al-Sarawi, Derek Abbott, Yansong Gao. *TIFS 2024.*
+- **BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models.** [[pdf](https://doi.org/10.1109/TIFS.2024.3386058)]
+  - Jordan Vice, Naveed Akhtar, Richard I. Hartley, Ajmal Mian. *TIFS 2024.*
+- **Minimalism is King! High-Frequency Energy-Based Screening for Data-Efficient Backdoor Attacks.** [[pdf](https://doi.org/10.1109/TIFS.2024.3380821)]
+  - Yuan Xun, Xiaojun Jia, Jindong Gu, Xinwei Liu, Qing Guo, Xiaochun Cao. *TIFS 2024.*
+- **Stealthy Targeted Backdoor Attacks Against Image Captioning.** [[pdf](https://doi.org/10.1109/TIFS.2024.3402179)]
+  - Wenshu Fan, Hongwei Li, Wenbo Jiang, Meng Hao, Shui Yu, Xiao Zhang. *TIFS 2024.*
+- **Toward Stealthy Backdoor Attacks Against Speech Recognition via Elements of Sound.** [[pdf](https://doi.org/10.1109/TIFS.2024.3404885)]
+  - Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, Yiming Li. *TIFS 2024.*
+- **Backdoor Attack With Sparse and Invisible Trigger.** [[pdf](https://doi.org/10.1109/TIFS.2024.3411936)]
+  - Yinghua Gao, Yiming Li, Xueluan Gong, Zhifeng Li, Shu-Tao Xia, Qian Wang. *TIFS 2024.*
+- **Investigating the Backdoor on DNNs Based on Recolorization and Reconstruction: From a Multi-Channel Perspective.** [[pdf](https://doi.org/10.1109/TIFS.2024.3427432)]
+  - Honglong Chen, Yudong Gao, Anqing Zhang, Peng Sun, Nan Jiang, Weifeng Liu, Xingang Wang. *TIFS 2024.*
+- **iBA: Backdoor Attack on 3D Point Cloud via Reconstructing Itself.** [[pdf](https://doi.org/10.1109/TIFS.2024.3452630)]
+  - Yuhao Bian, Shengjing Tian, Xiuping Liu. *TIFS 2024.*
+- **A Proxy Attack-Free Strategy for Practically Improving the Poisoning Efficiency in Backdoor Attacks.** [[pdf](https://doi.org/10.1109/TIFS.2024.3472510)]
+  - Ziqiang Li, Hong Sun, Pengfei Xia, Beihao Xia, Xue Rui, Wei Zhang, Qinglang Guo, Zhangjie Fu, Bin Li. *TIFS 2024.*
+- **Stealthy Backdoors as Compression Artifacts.** [[pdf](https://doi.org/10.1109/TIFS.2022.3160359)]
+    - Yulong Tian, Fnu Suya, Fengyuan Xu, David Evans. *TIFS 2022.*
+- **Dispersed Pixel Perturbation-Based Imperceptible Backdoor Trigger for Image Classifier Models.** [[pdf](https://doi.org/10.1109/TIFS.2022.3202687)]
+    - Yulong Wang, Minghui Zhao, Shenghong Li, Xin Yuan, Wei Ni. *TIFS 2022.*
+- **Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-Based Traffic Congestion Control Systems.** [[pdf](https://doi.org/10.1109/TIFS.2021.3114024)]
+    - Yue Wang, Esha Sarkar, Wenqing Li, Michail Maniatakos, Saif Eddin Jabari. *TIFS 2021.*
+- **Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures.** [[pdf](https://doi.org/10.1109/TIFS.2021.3116431)]
+    - Zhicong Yan, Jun Wu, Gaolei Li, Shenghong Li, Mohsen Guizani. *TIFS 2021.*
+
+---
+
 #### CVPR
 
 - **Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift.** [[pdf](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Revisiting_Backdoor_Attacks_against_Large_Vision-Language_Models_from_Domain_Shift_CVPR_2025_paper.html)]
@@ -386,6 +437,45 @@ To be continued...
     - Jinyuan Jia, Yupei Liu, Neil Zhenqiang Gong. *S&P 2022.*
 - **True2F: Backdoor-Resistant Authentication Tokens.** [[pdf](https://doi.org/10.1109/SP.2019.00048)]
     - Emma Dauterman, Henry Corrigan-Gibbs, David Mazières, Dan Boneh, Dominic Rizzo. *S&P 2019.*
+
+---
+
+#### TDSC
+
+- **CoBA: Collusive Backdoor Attacks With Optimized Trigger to Federated Learning.** [[pdf](https://doi.org/10.1109/TDSC.2024.3445637)]
+  - Xiaoting Lyu, Yufei Han, Wei Wang, Jingkai Liu, Bin Wang, Kai Chen, Yidong Li, Jiqiang Liu, Xiangliang Zhang. *TDSC 2025.*
+- **Rethinking the Design of Backdoor Triggers and Adversarial Perturbations: A Color Space Perspective.** [[pdf](https://doi.org/10.1109/TDSC.2024.3521942)]
+  - Wenbo Jiang, Hongwei Li, Guowen Xu, Hao Ren, Haomiao Yang, Tianwei Zhang, Shui Yu. *TDSC 2025.*
+- **Adaptive Backdoor Attacks With Reasonable Constraints on Graph Neural Networks.** [[pdf](https://doi.org/10.1109/TDSC.2025.3543020)]
+  - Xuewen Dong, Jiachen Li, Shujun Li, Zhichao You, Qiang Qu, Yaroslav Kholodov, Yulong Shen. *TDSC 2025.*
+- **Incremental Learning, Incremental Backdoor Threats.** [[pdf](https://doi.org/10.1109/TDSC.2022.3201234)]
+  - Wenbo Jiang, Tianwei Zhang, Han Qiu, Hongwei Li, Guowen Xu. *TDSC 2024.*
+- **Quantization Backdoors to Deep Learning Commercial Frameworks.** [[pdf](https://doi.org/10.1109/TDSC.2023.3271956)]
+  - Hua Ma, Huming Qiu, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Jiliang Zhang, Said F. Al-Sarawi, Derek Abbott. *TDSC 2024.*
+- **KerbNet: A QoE-Aware Kernel-Based Backdoor Attack Framework.** [[pdf](https://doi.org/10.1109/TDSC.2023.3286842)]
+  - Xueluan Gong, Yanjiao Chen, Huayang Huang, Weihan Kong, Ziyao Wang, Chao Shen, Qian Wang. *TDSC 2024.*
+- **Palette: Physically-Realizable Backdoor Attacks Against Video Recognition Models.** [[pdf](https://doi.org/10.1109/TDSC.2023.3314792)]
+  - Xueluan Gong, Zheng Fang, Bowen Li, Tao Wang, Yanjiao Chen, Qian Wang. *TDSC 2024.
+- **Efficient and Secure Federated Learning Against Backdoor Attacks.** [[pdf](https://doi.org/10.1109/TDSC.2024.3354736)]
+  - Yinbin Miao, Rongpeng Xie, Xinghua Li, Zhiquan Liu, Kim-Kwang Raymond Choo, Robert H. Deng. *TDSC 2024.*
+- **Towards Practical Backdoor Attacks on Federated Learning Systems.** [[pdf](https://doi.org/10.1109/TDSC.2024.3376790)]
+  - Chenghui Shi, Shouling Ji, Xudong Pan, Xuhong Zhang, Mi Zhang, Min Yang, Jun Zhou, Jianwei Yin, Ting Wang. *TDSC 2024.*
+- **Enhancing Backdoor Attacks With Multi-Level MMD Regularization.** [[pdf](https://doi.org/10.1109/TDSC.2022.3161477)]
+  - Pengfei Xia, Hongjing Niu, Ziqiang Li, Bin Li. *TDSC 2023.*
+- **FooBaR: Fault Fooling Backdoor Attack on Neural Network Training.** [[pdf](https://doi.org/10.1109/TDSC.2022.3166671)]
+  - Jakub Breier, Xiaolu Hou, Martín Ochoa, Jesus Solano. *TDSC 2023.
+- **MARNet: Backdoor Attacks Against Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1109/TDSC.2022.3207429)]
+  - Yanjiao Chen, Zhicong Zheng, Xueluan Gong. *TDSC 2023.*
+- **A Temporal Chrominance Trigger for Clean-Label Backdoor Attack Against Anti-Spoof Rebroadcast Detection.** [[pdf](https://doi.org/10.1109/TDSC.2022.3233519)]
+  - Wei Guo, Benedetta Tondi, Mauro Barni. *TDSC 2023.*
+- **Kaleidoscope: Physical Backdoor Attacks Against Deep Neural Networks With RGB Filters.** [[pdf](https://doi.org/10.1109/TDSC.2023.3239225)]
+  - Xueluan Gong, Ziyao Wang, Yanjiao Chen, Meng Xue, Qian Wang, Chao Shen. *TDSC 2023.*
+- **One-to-N & N-to-One: Two Advanced Backdoor Attacks Against Deep Learning Models.** [[pdf](https://doi.org/10.1109/TDSC.2020.3028448)]
+  - Mingfu Xue, Can He, Jian Wang, Weiqiang Liu. *TDSC 2022.*
+- **Backdoor Attack on Machine Learning Based Android Malware Detectors.** [[pdf](https://doi.org/10.1109/TDSC.2021.3094824)]
+  - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, Yang Xiang. *TDSC 2022.*
+- **Invisible Backdoor Attacks on Deep Neural Networks Via Steganography and Regularization.** [[pdf](https://doi.org/10.1109/TDSC.2020.3021407)]
+  - Shaofeng Li, Minhui Xue, Benjamin Zi Hao Zhao, Haojin Zhu, Xinpeng Zhang. *TDSC 2021.*
 
 ---
 
