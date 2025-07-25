@@ -26,7 +26,7 @@ Please feel free to send me [issues](https://github.com/Allenpandas/Awesome-Back
 - TIFS
 - [S&P (19~25)](#SP) ✅
 - TDSC
-- [UsenixSecurity (21~24)](#UsenixSecurity) ✅ UsenixSecurity'25 🔍
+- [Usenix Security (21~24)](#Usenix-Security) ✅ UsenixSecurity'25 🔍
 - [ICML (21~24)](#ICML) ✅ ICML'25 🔍
 - [MM (21~24)](#ACM-MM) ✅ ACM MM'25 🔍
 - [ACL (21~25)](#ACL) ✅
@@ -201,6 +201,8 @@ To be continued...
     - Ximing Qiao, Yukun Yang, Hai Li. *NeurIPS 2019.*
 - **Spectral Signatures in Backdoor Attacks.** [[pdf](https://proceedings.neurips.cc/paper/2018/hash/280cf18baf4311c92aa5a042336587d3-Abstract.html)]
     - Brandon Tran, Jerry Li, Aleksander Madry. *NeurIPS 2018.*
+
+---
 
 #### ICLR
 
@@ -387,7 +389,7 @@ To be continued...
 
 ---
 
-#### UsenixSecurity
+#### Usenix Security
 
 - **An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.** [[pdf](https://www.usenix.org/conference/usenixsecurity24/presentation/yan)]
     - Shenao Yan, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong. *Usenix Security 2024.*
